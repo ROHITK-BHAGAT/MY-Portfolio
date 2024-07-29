@@ -343,7 +343,7 @@ nav ul li a:hover{
 }
 .progress-line span{
     height: 100%;
-    background-color: #DC494E;
+    background-color: #ff004f;
     position: absolute;
     border-radius: 10px;
     animation: animate1 1s 1s  cubic-bezier(1,0,0.5,1) forwards;
@@ -498,7 +498,7 @@ nav ul li a:hover{
  .path{
     
     stroke-width: 9;
-    stroke: #DC494E;
+    stroke: #ff004f;
     fill: transparent;
     stroke-dasharray: 502;
     stroke-dashoffset: 502;
